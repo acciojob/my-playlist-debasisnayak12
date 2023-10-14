@@ -24,3 +24,9 @@ a{
 	padding:10px;
 	margin:0px 50px 0px 50px;
 }
+.player_one{
+	background-color:rgb(255,255,255);
+}
+.player_two{
+	background-color:rgb(255,255,255);
+}
